@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Study/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/day12-Filter&amp;Listener&amp;AJAX/02-AJAX/资料/3. 品牌列表案例/初始工程/brand-demo/brand-demo.iml" filepath="$PROJECT_DIR$/../../Study/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/day12-Filter&amp;Listener&amp;AJAX/02-AJAX/资料/3. 品牌列表案例/初始工程/brand-demo/brand-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../veu-demo/vue-demo.iml" filepath="$PROJECT_DIR$/../veu-demo/vue-demo.iml" />
+    </modules>
+  </component>
+</project>

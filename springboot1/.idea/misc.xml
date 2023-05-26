@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot_01_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Study/ssm/02-springmvc/day02/源码/springmvc/springmvc_11_page" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/04-springboot/源码/springboot/springboot_04_profile/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/04-springboot/源码/springboot/springboot_05_maven_and_boot_profile/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/04-springboot/源码/springboot/springboot_06_config_file/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_07_test/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_08_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/02-springmvc/day02/源码/springmvc/springmvc_11_page/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_09_ssm1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_01_01quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_01_02_aliyuquickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_01_01abc/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_01_03_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_01_03_mybatisplus/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_01_03_druid/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_01_03_ssmp/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_01_04/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/2.运维实用篇/源代码/springboot/springboot_11_log/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_12_hot_deploy/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

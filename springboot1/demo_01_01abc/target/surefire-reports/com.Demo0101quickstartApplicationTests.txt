@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.Demo0101quickstartApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.151 s <<< FAILURE! - in com.Demo0101quickstartApplicationTests
+com.Demo0101quickstartApplicationTests  Time elapsed: 0.15 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

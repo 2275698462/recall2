@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/01-spring/day03/代码/spring/spring_24_case_transfer/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/01-spring/day03/代码/spring/spring_25_case_transfer_log/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/01-spring/day03/代码/spring/spring_23_case_handle_password/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/01-spring/day03/代码/spring/spring_22_aop_advice_data/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/01-spring/day03/代码/spring/spring_21_case_interface_run_speed/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/01-spring/day03/代码/spring/spring_20_aop_advice_type/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/01-spring/day03/代码/spring/spring_17_aop_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/01-spring/day03/代码/spring/spring_18_aop_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/01-spring/day03/代码/spring/spring_19_aop_pointcut/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

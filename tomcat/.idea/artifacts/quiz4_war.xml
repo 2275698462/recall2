@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="quiz4:war">
+    <output-path>$PROJECT_DIR$/../quiz4/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>quiz4</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="quiz4-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="quiz4:war exploded" />
+    </root>
+  </artifact>
+</component>

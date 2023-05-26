@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_15_sql" />
+        <module name="springboot_22_task" />
+        <module name="springboot_23_mail" />
+        <module name="springboot_26_admin_client" />
+        <module name="springboot_20_jetcache" />
+        <module name="springboot_14_test" />
+        <module name="springboot_08_ssmp" />
+        <module name="springboot13_configration" />
+        <module name="springboot_19_cache" />
+        <module name="springboot_24_mq" />
+        <module name="springboot_13_configuration" />
+        <module name="springboot_16_redis" />
+        <module name="springboot_12_hot_deploy" />
+        <module name="springboot_21_j2cache" />
+        <module name="springboot_25_admin_server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="springboot13_configration" target="1.8" />
+      <module name="springboot_08_ssmp" target="1.8" />
+      <module name="springboot_12_hot_deploy" target="1.8" />
+      <module name="springboot_14_test" target="1.8" />
+      <module name="springboot_15_sql" target="1.8" />
+      <module name="springboot_16_redis" target="1.8" />
+      <module name="springboot_19_cache" target="1.8" />
+      <module name="springboot_20_jetcache" target="1.8" />
+      <module name="springboot_21_j2cache" target="1.8" />
+      <module name="springboot_22_task" target="1.8" />
+      <module name="springboot_23_mail" target="1.8" />
+      <module name="springboot_24_mq" target="1.8" />
+      <module name="springboot_25_admin_server" target="1.8" />
+      <module name="springboot_26_admin_client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot13_configration" options="-parameters" />
+      <module name="springboot_08_ssmp" options="-parameters" />
+      <module name="springboot_12_hot_deploy" options="-parameters" />
+      <module name="springboot_14_test" options="-parameters" />
+      <module name="springboot_15_sql" options="-parameters" />
+      <module name="springboot_16_redis" options="-parameters" />
+      <module name="springboot_19_cache" options="-parameters" />
+      <module name="springboot_20_jetcache" options="-parameters" />
+      <module name="springboot_21_j2cache" options="-parameters" />
+      <module name="springboot_22_task" options="-parameters" />
+      <module name="springboot_23_mail" options="-parameters" />
+      <module name="springboot_24_mq" options="-parameters" />
+      <module name="springboot_25_admin_server" options="-parameters" />
+      <module name="springboot_26_admin_client" options="-parameters" />
+    </option>
+  </component>
+</project>

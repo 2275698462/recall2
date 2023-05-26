@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div id="loginDiv" style="height: 350px">
+    <form action="/quiz4/registerServlet" method="post" id="form">
+
+
+        <p>姓名<input id="username" name="username" type="text"></p>
+        <p>密码<input id="password" name="password" type="password"></p>
+        <p id="aaa" style="display: none">密码长度至少为5位！！！！！！！！！</p>
+
+        <p>生日<input id="day" name="day" type="text"></p>
+        <p id="bbb" style="display: none">生日必须要是一个日期！！！！！！！！！ 八位数字 例如 20001010</p>
+        <div id="subDiv">
+            <input type="submit" onclick='location.href=("/regsuccess.jsp")' value="注册" >
+        </div>
+    </form>
+</div>
+
+<script>
+    document.getElementById("password").onblur = function () {
+        //1. 创建核心对象
+        var xhttp;
+        var password = this.value;
+        if (window.XMLHttpRequest) {
+            xhttp = new XMLHttpRequest();
+        } else {
+
+            xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        //2. 发送请求
+        xhttp.open("GET", "http://localhost:8080/quiz4/registerServlet?password=" + password);
+        xhttp.send();
+
+        //3. 获取响应
+        xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                if (this.readyState == 4 && this.status == 200) {
+
+                    //判断
+                    if(this.responseText == "false"){
+
+                        document.getElementById("aaa").style.display = '';
+                    }else {
+
+                        document.getElementById("aaa").style.display = 'none';
+                    }
+
+                }
+            };
+
+        };
+    }
+
+
+</script>
+
+</body>
+</html>

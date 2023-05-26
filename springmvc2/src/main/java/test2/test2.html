@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+
+        .box {
+            width: 1200px;
+            height: 720px;
+            margin: 20px auto;
+            overflow: hidden;
+            position: relative;
+        }
+
+
+        .box .i {
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 4800px;
+            height: 720px;
+        }
+
+
+        .box .i img {
+            width: 1200px;
+            height: 520px;
+            float: left;
+        }
+
+
+        .box .arrows-l {
+            cursor: pointer;
+            position: absolute;
+            top: 520px;
+        }
+
+
+        .box .arrows-r {
+            cursor: pointer;
+            position: absolute;
+            right: 910px;
+            top: 522px;
+        }
+
+
+        .box .slider {
+            height: 20px;
+            position: absolute;
+            bottom: 10px;
+            left: 500px;
+        }
+
+
+        .box .slider span {
+            float: left;
+            display: block;
+            width: 40px;
+            height: 10px;
+            margin-right: 20px;
+            border-radius: 5px;
+            background-color: #84a7af;
+            cursor: pointer;
+        }
+
+
+        .box .slider .activeColor {
+            background-color: #ffc0cb;
+        }
+    </style>
+</head>
+
+<body>
+<div class="show">
+    <div class="box">
+
+        <div class="i">
+            <img src="haibao-1.jpg" alt="">
+            <img src="haibao-2.jpg" alt="">
+            <img src="haibao-3.jpg" alt="">
+        </div>
+
+        <div class="arrows">
+            <div class="arrows-l">
+                <img src="up.png" alt="">
+            </div>
+            <div class="arrows-r">
+                <img src="down.png" alt="">
+            </div>
+        </div>
+
+        <div class="slider">
+        </div>
+
+    </div>
+</div>
+
+
+<script src="test2.js"></script>
+<script>
+    let i = document.querySelector('.i')
+    let travelDistance = 1200
+    let iParent = document.querySelector(".box")
+    let timerCode = true
+    let arrows = document.querySelectorAll('.arrows')[0].children
+    let slider = document.querySelector('.slider')
+    let currentActiveColor = 'activeColor'
+
+    slideShow(i, travelDistance, iParent, timerCode, arrows, slider, currentActiveColor);
+</script>
+</body>
+</html>

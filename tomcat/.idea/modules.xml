@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../quiz3/quiz3.iml" filepath="$PROJECT_DIR$/../quiz3/quiz3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz4/quiz4.iml" filepath="$PROJECT_DIR$/../quiz4/quiz4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat.iml" filepath="$PROJECT_DIR$/tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tomcat-demo1/tomcat-demo1.iml" filepath="$PROJECT_DIR$/../tomcat-demo1/tomcat-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tomcat-demo2/tomcat-demo2.iml" filepath="$PROJECT_DIR$/../tomcat-demo2/tomcat-demo2.iml" />
+    </modules>
+  </component>
+</project>

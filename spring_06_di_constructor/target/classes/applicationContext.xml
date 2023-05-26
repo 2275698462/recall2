@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="bookDao" class="com.itheima.dao.impl.BookDaoImpl">
+        <constructor-arg name="connectionNum" value="1"/>
+        <constructor-arg name="databaseName" value="mysql"/>
+
+    </bean>
+
+    <bean id="userDao" class="com.itheima.dao.impl.UserDaoImpl"/>
+
+    <bean id="bookService" class="com.itheima.service.impl.BookServiceImpl">
+        <constructor-arg name="bookDao1" ref="bookDao"/>
+        <constructor-arg name="userDao1" ref="userDao"/>
+    </bean>
+</beans>

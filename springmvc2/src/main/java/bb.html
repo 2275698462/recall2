@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<style>
+    *{
+        margin:0;
+        padding:0
+    }
+    #jqwer{
+        margin: 100px auto;
+        width:500px;
+        height:500px;
+    }
+    #HHHH{
+        width:500px;
+        height: 500px;
+    }
+    #buttonBox{
+        width: 170px;
+        margin: 10px auto;
+    }
+
+</style>
+<body>
+<div id = "jqwer">
+    <img src="haibao-1.jpg" src="haibao-2.jpg" src="haibao-3.jpg" id="HHHH"/>
+
+
+    <div id="buttonBox">
+        <input type="button" value="上一张" onclick="after();" />
+        <input type="button" value="下一张" onclick="next();" />
+    </div>
+</div>
+<script>
+
+    var HHHHarr=new Array("haibao-1.jpg，haibao-2.jpg ");
+    var j=0;
+    function next(){
+        j++;
+        if(j==HHHHarr.length){
+            j=0;
+        }
+        document.getElementById("HHHH").src=HHHHarr[j];
+    }
+    function after(){
+        j--;
+        if(j<0){
+            j=HHHHarr.length-1;
+        }
+        document.getElementById("HHHH").src=HHHHarr[j];
+    }
+</script>
+</body>
+</html>

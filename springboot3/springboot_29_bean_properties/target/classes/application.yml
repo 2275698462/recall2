@@ -1,0 +1,8 @@
+cartoon:
+  cat:
+#    name: tom
+    age: 3
+
+  mouse:
+    name: jerry
+    age: 4

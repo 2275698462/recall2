@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_12_hot_deploy/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot13_configration/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_14_test/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_15_sql/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_16_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_19_cache/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_20_jetcache/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_21_j2cache/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_22_task/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_23_mail/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_24_mq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_25_admin_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_26_admin_client/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_08_ssmp/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

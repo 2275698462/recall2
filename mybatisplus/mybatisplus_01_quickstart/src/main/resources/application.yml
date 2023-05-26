@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/db1?serverTimezone=UTC&characterEncoding=UTF-8
+    username: root
+    password: 123456
+
+ #开启mp的日志 （输出到控制台）
+  main:
+    banner-mode: off
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    banner: false
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.itheima.abc.Demo0101quickstartApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.547 s - in com.itheima.abc.Demo0101quickstartApplicationTests

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <input v-model="username">
+    {{username}}
+</div>
+
+<script src="js/vue.js"></script>
+<script src="js/axios-0.18.0.js"></script>
+<script>
+
+    new Vue({
+        data() {
+            return{
+                brands:[]
+            }
+        },
+        mounted(){
+            var _this = this;
+            axios({
+
+            }).then(function (resp){
+                _this.brands = resp.data;
+            })
+        }
+    })
+</script>
+
+
+</body>
+</html>

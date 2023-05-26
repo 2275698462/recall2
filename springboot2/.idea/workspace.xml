@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b4aa436-b369-48d2-bea7-4fa0925c2b99" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft(programming)\apache-maven\local" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../soft(programming)/apache-maven/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\soft(programming)\apache-maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Hld3PX5kKdWCIpRx8TIbms4VQi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Plugins Suggestion": "有可用的插件建议",
+    "Notification.DoNotAsk-Plugins Suggestion": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/my-space/javase",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "settings.editor.splitter.proportion": "0.23786008",
+    "spring.configuration.checksum": "3c68e0e51704020126c5e05df2a1380b",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_java-projects\springboot2\springboot_24_mq\src\main\java\com\itheima\service\impl\rabbitmq\topic" />
+      <recent name="D:\Study\SpringBoot2全套\3.开发实用篇\（更新至实用开发篇第五章）补充\springboot_21_j2cache\src\main\resources" />
+      <recent name="D:\Study\SpringBoot2全套\3.开发实用篇\源代码（更新至实用开发篇第五章）\springboot_19_cache\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.itheima" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.service.impl.rabbitmq.direct.listener" />
+      <recent name="com.itheima.controller" />
+      <recent name="com.itheima" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot26AdminClientApplication">
+    <configuration name="CodeUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.utils.CodeUtils" />
+      <module name="springboot_19_cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerTaskApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TimerTaskApp" />
+      <module name="springboot_22_task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot16RedisApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_16_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Springboot16RedisApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot16RedisApplicationTests.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_16_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Springboot16RedisApplicationTests" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot16RedisApplicationTests.set" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_16_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Springboot16RedisApplicationTests" />
+      <option name="METHOD_NAME" value="set" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSMPApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="springboot_08_ssmp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SSMPApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSMPApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="springboot_12_hot_deploy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SSMPApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot13ConfigrationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot13_configration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot13ConfigrationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot13ConfigurationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_13_configuration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot13ConfigurationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot14TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_14_test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot14TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot15SqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="springboot_15_sql" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot15SqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot16RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="springboot_16_redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot16RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot19CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="springboot_19_cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot19CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot20JetCacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="springboot_20_jetcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot20JetCacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot21J2CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="springboot_21_j2cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot21J2CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot22TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="springboot_22_task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot22TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot23MailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="springboot_23_mail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot23MailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot24MqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_24_mq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot24MqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot25AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="springboot_25_admin_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot25AdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot26AdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="springboot_26_admin_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot26AdminClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Springboot16RedisApplicationTests" />
+      <item itemvalue="JUnit.Springboot16RedisApplicationTests.get" />
+      <item itemvalue="JUnit.Springboot16RedisApplicationTests.set" />
+      <item itemvalue="Spring Boot.SSMPApplication (1)" />
+      <item itemvalue="Spring Boot.Springboot25AdminServerApplication" />
+      <item itemvalue="Spring Boot.Springboot26AdminClientApplication" />
+      <item itemvalue="Spring Boot.Springboot24MqApplication" />
+      <item itemvalue="Spring Boot.Springboot23MailApplication" />
+      <item itemvalue="Spring Boot.Springboot22TaskApplication" />
+      <item itemvalue="Spring Boot.Springboot21J2CacheApplication" />
+      <item itemvalue="Spring Boot.Springboot20JetCacheApplication" />
+      <item itemvalue="Spring Boot.Springboot16RedisApplication" />
+      <item itemvalue="Spring Boot.Springboot19CacheApplication" />
+      <item itemvalue="Spring Boot.Springboot14TestApplication" />
+      <item itemvalue="Spring Boot.Springboot15SqlApplication" />
+      <item itemvalue="Spring Boot.Springboot13ConfigrationApplication" />
+      <item itemvalue="Spring Boot.Springboot13ConfigurationApplication" />
+      <item itemvalue="Spring Boot.SSMPApplication" />
+      <item itemvalue="应用程序.TimerTaskApp" />
+      <item itemvalue="应用程序.CodeUtils" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.TimerTaskApp" />
+        <item itemvalue="应用程序.CodeUtils" />
+        <item itemvalue="JUnit.Springboot16RedisApplicationTests.get" />
+        <item itemvalue="JUnit.Springboot16RedisApplicationTests.set" />
+        <item itemvalue="JUnit.Springboot16RedisApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6b4aa436-b369-48d2-bea7-4fa0925c2b99" name="变更" comment="" />
+      <created>1668863404488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668863404488</updated>
+      <workItem from="1668863405597" duration="30000" />
+      <workItem from="1668906309908" duration="1112000" />
+      <workItem from="1668907453119" duration="367000" />
+      <workItem from="1668907834634" duration="4631000" />
+      <workItem from="1668916592153" duration="5000" />
+      <workItem from="1668916627089" duration="45000" />
+      <workItem from="1668916687202" duration="27432000" />
+      <workItem from="1669096653566" duration="846000" />
+      <workItem from="1669097754647" duration="700000" />
+      <workItem from="1669099315959" duration="16158000" />
+      <workItem from="1669190437207" duration="35253000" />
+      <workItem from="1669365885273" duration="9888000" />
+      <workItem from="1669445332609" duration="498000" />
+      <workItem from="1669447217746" duration="19096000" />
+      <workItem from="1674913391422" duration="75000" />
+      <workItem from="1674913479828" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

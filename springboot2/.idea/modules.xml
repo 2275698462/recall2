@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot13_configration/springboot13_configration.iml" filepath="$PROJECT_DIR$/springboot13_configration/springboot13_configration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot2.iml" filepath="$PROJECT_DIR$/.idea/springboot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_08_ssmp/springboot_08_ssmp.iml" filepath="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_08_ssmp/springboot_08_ssmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_12_hot_deploy/springboot_12_hot_deploy.iml" filepath="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_12_hot_deploy/springboot_12_hot_deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_14_test/springboot_14_test.iml" filepath="$PROJECT_DIR$/springboot_14_test/springboot_14_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_15_sql/springboot_15_sql.iml" filepath="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_15_sql/springboot_15_sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_16_redis/springboot_16_redis.iml" filepath="$PROJECT_DIR$/springboot_16_redis/springboot_16_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_19_cache/springboot_19_cache.iml" filepath="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_19_cache/springboot_19_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_20_jetcache/springboot_20_jetcache.iml" filepath="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_20_jetcache/springboot_20_jetcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_21_j2cache/springboot_21_j2cache.iml" filepath="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_21_j2cache/springboot_21_j2cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_22_task/springboot_22_task.iml" filepath="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_22_task/springboot_22_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_23_mail/springboot_23_mail.iml" filepath="$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/（更新至实用开发篇第五章）补充/springboot_23_mail/springboot_23_mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_24_mq/springboot_24_mq.iml" filepath="$PROJECT_DIR$/springboot_24_mq/springboot_24_mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_25_admin_server/springboot_25_admin_server.iml" filepath="$PROJECT_DIR$/springboot_25_admin_server/springboot_25_admin_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_26_admin_client/springboot_26_admin_client.iml" filepath="$PROJECT_DIR$/springboot_26_admin_client/springboot_26_admin_client.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<body>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<body>
+<div class="box">
+    <ul id="lists">
+        <li>暂无数据</li>
+    </ul>
+</div>
+<div>
+    <form>
+        <div>
+            标题<input type="text" id="inputtext" value="默认值">
+        </div>
+
+        <div>
+            <button onclick="sub()" type="button">提交</button>
+        </div>
+        <div>
+            <button onclick="delfirst()" type="button">删除第一条</button>
+            <button onclick="delend()" type="button">删除最后一条</button>
+        </div>
+    </form>
+</div>
+
+<script>
+    var arr = [{
+        title: "1.新一届中央政治局常委简历"
+    },
+        {
+            title: "2.官方:前三季度GDP同比增长3...."
+        },
+        {
+            title: "3.未来五年，我们这样干"
+        },
+        {
+            title: "4.中共二十届中央领导机构成员简...."
+        },
+        {
+            title: "5.国考明日起报名 计划招录3.71万...."
+        },
+        {
+            title: "6.防止领导干部成为利益集团代言...."
+        },
+        {
+            title: "7.女子套圈技术太差老板4次放水"
+        },
+        {
+            title: "8.中央政治局委员 书记处书记简历...."
+        },
+        {
+            title: "9.特斯拉Model 3及Model Y降价"
+        }
+    ];
+
+    function inhtml(lists) {
+        var html = "";
+        // for(var i=0;i<lists.length;++i){
+        //  html +="<li>"+lists[i].tilte
+        // }
+        for (var i in lists) {
+            html += "<li>" + lists[i].title +
+                "<button onclick='delitem(" + i + ")'>删除</button></li>";
+        }
+        html = document.getElementById('lists').innerHTML = html;
+    }
+    inhtml(arr);
+    function sub(){
+        var input = document.getElementById("inputtext");
+        console.log(arr);
+        arr.push({
+            title: input.value
+        })
+        console.log(arr);
+        inhtml(arr);
+    }
+    function delfirst(){
+        arr.shift();
+        inhtml(arr);
+    }
+    function delend(){
+        arr.pop();
+        inhtml(arr);
+    }
+    function delitem(i){
+        arr.splice(i, 1);
+        inhtml(arr);
+    }
+</script>
+</body>
+</html>

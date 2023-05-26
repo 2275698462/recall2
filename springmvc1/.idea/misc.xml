@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_01_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_01_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_02_bean_load" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_03_request_mapping" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_04_request_param" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_05_response" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_06_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_07_rest_case" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_07_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_06_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_05_response/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_04_request_param/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_02_bean_load/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Study/ssm/02-springmvc/day01/源码/springmvc/springmvc_03_request_mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_01_quickstart/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

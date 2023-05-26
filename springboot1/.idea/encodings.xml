@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/demo_01_01abc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_01_01abc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_01_01quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_01_02_aliyuquickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_01_02_aliyuquickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_01_03_druid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_01_03_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_01_03_mybatisplus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_01_03_ssmp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_01_04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_07_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_08_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_09_ssm1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/2.运维实用篇/源代码/springboot/springboot_11_log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Study/SpringBoot2全套/3.开发实用篇/源代码（更新至实用开发篇第五章）/springboot_12_hot_deploy/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

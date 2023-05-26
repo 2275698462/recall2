@@ -1,0 +1,8 @@
+servers:
+  ipAddress: 12138
+  port: 66881
+  timeout: -1
+
+
+dataSource:
+  driverClassName: com.baidu.8888

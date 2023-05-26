@@ -1,0 +1,3 @@
+com\itheima\dao\BookDao.class
+com\itheima\domain\Book.class
+com\itheima\Springboot08MybatisApplication.class

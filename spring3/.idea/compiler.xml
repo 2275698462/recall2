@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_22_aop_advice_data" />
+        <module name="spring_18_aop_quickstart" />
+        <module name="spring_23_case_handle_password" />
+        <module name="spring3" />
+        <module name="spring_25_case_transfer_log" />
+        <module name="spring_19_aop_pointcut" />
+        <module name="spring_21_case_interface_run_speed" />
+        <module name="spring_17_aop_demo" />
+        <module name="spring_24_case_transfer" />
+        <module name="spring_20_aop_advice_type" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

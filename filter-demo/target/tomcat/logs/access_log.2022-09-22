@@ -1,0 +1,9 @@
+127.0.0.1 - - [22/Sep/2022:13:36:41 +0800] "GET /filter-demo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [22/Sep/2022:13:36:41 +0800] "GET /filter-demo/ HTTP/1.1" 404 975 http-bio-8080-exec-2 10
+127.0.0.1 - - [22/Sep/2022:13:36:50 +0800] "GET /filter-demo/hello.jsp HTTP/1.1" 200 105 http-bio-8080-exec-3 267
+127.0.0.1 - - [22/Sep/2022:13:59:53 +0800] "GET /filter-demo/hello.jsp HTTP/1.1" 200 - http-bio-8080-exec-1 15
+127.0.0.1 - - [22/Sep/2022:14:01:57 +0800] "GET /filter-demo/hello.jsp HTTP/1.1" 200 105 http-bio-8080-exec-1 36
+127.0.0.1 - - [22/Sep/2022:14:07:57 +0800] "GET /filter-demo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [22/Sep/2022:14:07:57 +0800] "GET /filter-demo/ HTTP/1.1" 404 975 http-bio-8080-exec-2 12
+127.0.0.1 - - [22/Sep/2022:14:08:05 +0800] "GET /filter-demo/hello.jsp HTTP/1.1" 200 107 http-bio-8080-exec-3 311
+127.0.0.1 - - [22/Sep/2022:14:08:40 +0800] "GET /filter-demo/hello.jsp HTTP/1.1" 200 107 http-bio-8080-exec-4 1
